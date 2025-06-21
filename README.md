@@ -153,17 +153,17 @@ Data Structures, OOP
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
   </a>
-<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> -->
+  </a>
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Dev Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
