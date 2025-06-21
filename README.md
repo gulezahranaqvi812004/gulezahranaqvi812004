@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Gul-e-Zahra
 
-🎯 A driven and detail-oriented Mobile App Developer currently pursuing a Bachelor’s degree in Computer Science from UET Lahore. I build scalable, user-friendly apps using Flutter and Firebase, with a keen interest in state management, real-time features, and clean architecture.
+🎯 A driven and detail-oriented Mobile App Developer currently pursuing a Bachelor’s degree in Computer Science from UET Lahore. I build scalable, user-friendly apps using Flutter, with a keen interest in state management, real-time features, and clean architecture.
 
 ---
 
